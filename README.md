@@ -1,6 +1,5 @@
 <h1>Hi, I'm Vardhan Joshi! <br/><a href="https://www.linkedin.com/in/varjsh/">IT Sales and Technical Associate</a></a></h1> 
-
-<a href="https://www.linkedin.com/in/varjsh/">Entry Level Cyber Security Analyst</a></h1>
+<h1> <a href="https://www.linkedin.com/in/varjsh/">Entry Level Cyber Security Analyst</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
